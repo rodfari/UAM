@@ -1,0 +1,15 @@
+/Users/rodrigofarias/Code/UAM/Pratique/EventsConsoleApp/bin/Debug/net7.0/EventsConsoleApp
+/Users/rodrigofarias/Code/UAM/Pratique/EventsConsoleApp/bin/Debug/net7.0/EventsConsoleApp.deps.json
+/Users/rodrigofarias/Code/UAM/Pratique/EventsConsoleApp/bin/Debug/net7.0/EventsConsoleApp.runtimeconfig.json
+/Users/rodrigofarias/Code/UAM/Pratique/EventsConsoleApp/bin/Debug/net7.0/EventsConsoleApp.dll
+/Users/rodrigofarias/Code/UAM/Pratique/EventsConsoleApp/bin/Debug/net7.0/EventsConsoleApp.pdb
+/Users/rodrigofarias/Code/UAM/Pratique/EventsConsoleApp/obj/Debug/net7.0/EventsConsoleApp.csproj.AssemblyReference.cache
+/Users/rodrigofarias/Code/UAM/Pratique/EventsConsoleApp/obj/Debug/net7.0/EventsConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigofarias/Code/UAM/Pratique/EventsConsoleApp/obj/Debug/net7.0/EventsConsoleApp.AssemblyInfoInputs.cache
+/Users/rodrigofarias/Code/UAM/Pratique/EventsConsoleApp/obj/Debug/net7.0/EventsConsoleApp.AssemblyInfo.cs
+/Users/rodrigofarias/Code/UAM/Pratique/EventsConsoleApp/obj/Debug/net7.0/EventsConsoleApp.csproj.CoreCompileInputs.cache
+/Users/rodrigofarias/Code/UAM/Pratique/EventsConsoleApp/obj/Debug/net7.0/EventsConsoleApp.dll
+/Users/rodrigofarias/Code/UAM/Pratique/EventsConsoleApp/obj/Debug/net7.0/refint/EventsConsoleApp.dll
+/Users/rodrigofarias/Code/UAM/Pratique/EventsConsoleApp/obj/Debug/net7.0/EventsConsoleApp.pdb
+/Users/rodrigofarias/Code/UAM/Pratique/EventsConsoleApp/obj/Debug/net7.0/EventsConsoleApp.genruntimeconfig.cache
+/Users/rodrigofarias/Code/UAM/Pratique/EventsConsoleApp/obj/Debug/net7.0/ref/EventsConsoleApp.dll

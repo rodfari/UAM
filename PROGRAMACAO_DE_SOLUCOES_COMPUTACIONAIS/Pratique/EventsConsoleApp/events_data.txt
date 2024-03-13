@@ -1,0 +1,5 @@
+cbb018f3-a11e-4db6-a765-61d8bf22f83c;Evento ;Terra prometida;RODEIO;01/01/0001 00:00;
+0f2a8fae-bbd7-415e-9963-e31258d376d7;Rodeio de sao paulo;avenida paulista - 1009;CINEMA;01/01/0001 00:00;
+25122e68-c4aa-4029-99bb-28f7b15c3541;Evento;Evento;RODEIO;01/01/0001 00:00;
+924f1221-a902-4fba-96d4-cbf79650c09c;rodrigo;rodrigo;PARQUE_DE_DIVERSAO;01/01/0001 00:00;
+77d5c002-f3db-42fb-b8c2-0189ded11bd2;eddede;aefaefaef;PARQUE_DE_DIVERSAO;10/12/2025 15:35;
